@@ -1,4 +1,4 @@
-Single Cell Suspension of hESC
+**Single Cell Suspension of hESC**
 
 1. Add 2ul of RI to a 2ml cell culture dish.
 2. Incubate 1hr. at 37*C (Cells should have a more spindly appearance). 
@@ -11,5 +11,3 @@ Single Cell Suspension of hESC
 9. Centrifuge 4min 1000rpm.
 10. Remove supernatant and resuspend on 10ml mTeSR+ 10ul RI. 
 11. Transfer to new geltrex coated dish. 
-
-
