@@ -1,8 +1,8 @@
 ## Chips-Same day procedure
 ###Coat chip
 1. Dilute Laminin to a concentration of 5ug/ml (1:20) in warm PBS+/+. 
-* Place ~50ul of the solution in a 3.5cm dish.Transfer the chip to the dish by holding it with twizzers from the labeled corner and putting it upside down from the original position. (You should be able to read the label now). 
-* Hold the chip against the bottom of the dish using the twizzers and add 2ml of the laminin solution.
+* Place ~50ul of the solution in a 3.5cm dish.Transfer the chip to the dish by holding it with tweezers from the labeled corner and putting it upside down from the original position. (You should be able to read the label now). 
+* Hold the chip against the bottom of the dish using the tweezers and add 2ml of the laminin solution.
 * Incubate at 37* for 2 hours. (*After one hour add RI to the cells to improve the single cell suspension survival)
 * Without removing the media, add 6ml of warm PBS+/+. 
 * Remove only 6ml of solution and add 6ml of PBS+/+.
